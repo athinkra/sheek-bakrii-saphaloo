@@ -1,0 +1,25 @@
+FONTLOG
+
+Qubee Bakrii Saphaloo font family
+=================================
+The "Qubee Sheek Bakrii Saphaloo" typeface is derived directly from the "JG Oromo"
+TrueType font created by Jason Glavy. The font was released under the OpenFont
+Licese v1.1 on August 28, 2023.
+
+The "Qubee Sheek Bakrii Saphaloo" typeface is identical to its companion,
+"Athinkra Sheek Bakrii Saphaloo", but adds Contextual Alternatives (calt)
+definitions to support mapping of Qubee Latin text to Sheek akri Saphaloo glyphs.
+
+All modifications to the original JG Oromo font are detailed in the following:
+
+
+Version 1.0
+-----------
+* Characters are relocated into the Unicode Private Use Area beginning from
+  address range U+E000.
+
+* CALT tables have been added to remap Latin Qubee sequences to Sheik Bakri Sapalo equivalents.
+
+* UPM size scaled from 1000 to 2048.
+
+* The Full Stop glyph is changed from four dots to two horizontal strokes.
