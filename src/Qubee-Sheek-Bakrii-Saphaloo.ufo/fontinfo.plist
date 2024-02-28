@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>1294</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2023, Raey Type (https://github.com/raeytype), with Reserved Font Names: &quot;Qubee: Sheek Bakrii Saphaloo&quot; and &quot;Qubee: Sheek Bakrii Saphaloo Regular&quot;.</string>
+  <string>Copyright (c) 2023-2024, Raey Type (https://github.com/raeytype), with Reserved Font Names: &quot;Qubee: Sheek Bakrii Saphaloo&quot; and &quot;Qubee: Sheek Bakrii Saphaloo Regular&quot;.</string>
   <key>descender</key>
   <integer>-380</integer>
   <key>familyName</key>
@@ -126,13 +126,13 @@
   <key>openTypeNameDescription</key>
   <string>Qubee: Bakrii Saphaloo script font designed in a sans serif style.
 
-The &quot;Qubee: Sheek Bakrii Saphaloo&quot; typeface is identical to the &quot;Athinkra - Sheek Bakrii Saphaloo&quot; typeface and adds Contextual Alternatives (calt) definitions to support mapping of Qubee Latin text to Sheek akri Saphaloo glyphs.</string>
+The &quot;Qubee: Sheek Bakrii Saphaloo&quot; typeface is identical to the &quot;Athinkra - Sheek Bakrii Saphaloo&quot; typeface and adds Ligature (liga) definitions to support mapping of Qubee Latin text to Sheek akri Saphaloo glyphs.</string>
   <key>openTypeNameDesigner</key>
   <string>Jason Glavy</string>
   <key>openTypeNameDesignerURL</key>
   <string>http://glavyfonts.com/</string>
   <key>openTypeNameLicense</key>
-  <string>This Font Software is Copyright (c) 2023, Raey Type (https://github.com/raeytype), with Reserved Font Names: &quot;Qubee: Sheek Bakrii Saphaloo&quot; and &quot;Qubee: Sheek Bakrii Saphaloo Regular&quot;.
+  <string>This Font Software is Copyright (c) 2023-2024, Raey Type (https://github.com/raeytype), with Reserved Font Names: &quot;Qubee: Sheek Bakrii Saphaloo&quot; and &quot;Qubee: Sheek Bakrii Saphaloo Regular&quot;.
 
 This Font Software is Copyright (c) 2006-2023, Athinkra, LLC (zenodotus@gmail.com&gt;), with reserved font name &quot;JG Oromo&quot;.
 Copyright (c) 2006, Jason Glavy (&lt;www.glavyfonts.com|jglavy@gmail.com&gt;).
@@ -189,7 +189,7 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.050</string>
+  <string>Version 1.060</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -299,7 +299,7 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>050</integer>
+  <integer>060</integer>
   <key>xHeight</key>
   <integer>938</integer>
 </dict>

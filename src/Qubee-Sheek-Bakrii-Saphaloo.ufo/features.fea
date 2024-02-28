@@ -62,7 +62,7 @@ languagesystem latn dflt; # Latin default
 @NY = [@N @Y];
 @ZY = [@Z @Y];
 @SingleQuote = [quotesingle quoteright];
-feature calt {
+feature liga {
 # Contextual Alternates
 
 #> feature
@@ -708,4 +708,4 @@ feature calt {
 
 
 #< feature
-} calt;
+} liga;
