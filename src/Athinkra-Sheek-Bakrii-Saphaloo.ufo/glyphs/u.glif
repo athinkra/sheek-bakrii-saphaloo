@@ -7,15 +7,15 @@
       <point x="874.73" y="0" type="line"/>
       <point x="733.502" y="0" type="line"/>
       <point x="733.502" y="137.697" type="line"/>
-      <point x="624.05" y="-22.0668"/>
-      <point x="436.041" y="-22.0668" type="qcurve" smooth="yes"/>
-      <point x="361.896" y="-22.0668"/>
-      <point x="293.048" y="5.29605" type="qcurve" smooth="yes"/>
-      <point x="213.607" y="36.1896"/>
-      <point x="173.887" y="90.0327" type="qcurve"/>
-      <point x="139.462" y="139.462"/>
-      <point x="124.457" y="208.311" type="qcurve"/>
-      <point x="115.63" y="255.093"/>
+      <point x="624.05" y="-22.067"/>
+      <point x="436.041" y="-22.067" type="qcurve" smooth="yes"/>
+      <point x="361.896" y="-22.067"/>
+      <point x="293.048" y="5.296" type="qcurve" smooth="yes"/>
+      <point x="213.095" y="35.8164"/>
+      <point x="173.887" y="90.033" type="qcurve" smooth="yes"/>
+      <point x="138.39" y="138.987"/>
+      <point x="124.457" y="208.311" type="qcurve" smooth="yes"/>
+      <point x="115.076" y="254.985"/>
       <point x="115.63" y="355.718" type="qcurve" smooth="yes"/>
       <point x="115.63" y="938.282" type="line"/>
       <point x="274.512" y="938.282" type="line"/>

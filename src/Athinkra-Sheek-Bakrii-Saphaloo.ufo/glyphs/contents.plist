@@ -10,40 +10,22 @@
   <string>B_.glif</string>
   <key>C</key>
   <string>C_.glif</string>
-  <key>Cheleftdes</key>
-  <string>C_heleftdes.glif</string>
-  <key>Chertdes</key>
-  <string>C_hertdes.glif</string>
-  <key>Chevertbar</key>
-  <string>C_hevertbar.glif</string>
   <key>D</key>
   <string>D_.glif</string>
   <key>E</key>
   <string>E_.glif</string>
-  <key>Enhook</key>
-  <string>E_nhook.glif</string>
   <key>F</key>
   <string>F_.glif</string>
   <key>G</key>
   <string>G_.glif</string>
   <key>H</key>
   <string>H_.glif</string>
-  <key>Hcyril</key>
-  <string>H_cyril.glif</string>
   <key>I</key>
   <string>I_.glif</string>
-  <key>Icyril1</key>
-  <string>I_cyril1.glif</string>
-  <key>Iehook</key>
-  <string>I_ehook.glif</string>
-  <key>Iehookogonek</key>
-  <string>I_ehookogonek.glif</string>
   <key>J</key>
   <string>J_.glif</string>
   <key>K</key>
   <string>K_.glif</string>
-  <key>Kahook</key>
-  <string>K_ahook.glif</string>
   <key>L</key>
   <string>L_.glif</string>
   <key>M</key>
@@ -62,8 +44,6 @@
   <string>S_.glif</string>
   <key>T</key>
   <string>T_.glif</string>
-  <key>TeTse</key>
-  <string>T_eT_se.glif</string>
   <key>U</key>
   <string>U_.glif</string>
   <key>V</key>
@@ -76,8 +56,6 @@
   <string>Y_.glif</string>
   <key>Z</key>
   <string>Z_.glif</string>
-  <key>Zhebreve</key>
-  <string>Z_hebreve.glif</string>
   <key>a</key>
   <string>a.glif</string>
   <key>ae</key>
@@ -110,12 +88,6 @@
   <string>c.glif</string>
   <key>ccedilla</key>
   <string>ccedilla.glif</string>
-  <key>cheleftdes</key>
-  <string>cheleftdes.glif</string>
-  <key>chertdes</key>
-  <string>chertdes.glif</string>
-  <key>chevertbar</key>
-  <string>chevertbar.glif</string>
   <key>colon</key>
   <string>colon.glif</string>
   <key>comma</key>
@@ -138,8 +110,6 @@
   <string>egrave.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
-  <key>enhook</key>
-  <string>enhook.glif</string>
   <key>equal</key>
   <string>equal.glif</string>
   <key>eth</key>
@@ -160,8 +130,6 @@
   <string>greater.glif</string>
   <key>h</key>
   <string>h.glif</string>
-  <key>hcyril</key>
-  <string>hcyril.glif</string>
   <key>hyphen</key>
   <string>hyphen.glif</string>
   <key>i</key>
@@ -172,18 +140,12 @@
   <string>icircumflex.glif</string>
   <key>idieresis</key>
   <string>idieresis.glif</string>
-  <key>iehook</key>
-  <string>iehook.glif</string>
-  <key>iehookogonek</key>
-  <string>iehookogonek.glif</string>
   <key>igrave</key>
   <string>igrave.glif</string>
   <key>j</key>
   <string>j.glif</string>
   <key>k</key>
   <string>k.glif</string>
-  <key>kahook</key>
-  <string>kahook.glif</string>
   <key>l</key>
   <string>l.glif</string>
   <key>less</key>
@@ -254,8 +216,6 @@
   <string>space.glif</string>
   <key>t</key>
   <string>t.glif</string>
-  <key>tetse</key>
-  <string>tetse.glif</string>
   <key>thorn</key>
   <string>thorn.glif</string>
   <key>three</key>
@@ -1428,6 +1388,8 @@
   <string>uniE_23F_.glif</string>
   <key>uniE240</key>
   <string>uniE_240.glif</string>
+  <key>uniE240.alt</key>
+  <string>uniE_240.alt.glif</string>
   <key>uniE241</key>
   <string>uniE_241.glif</string>
   <key>uniE242</key>
@@ -1860,52 +1822,88 @@
   <string>uniE_317.glif</string>
   <key>uniE318</key>
   <string>uniE_318.glif</string>
+  <key>uniE318.ism</key>
+  <string>uniE_318.ism.glif</string>
+  <key>uniE318.smr</key>
+  <string>uniE_318.smr.glif</string>
+  <key>uniE318.sna</key>
+  <string>uniE_318.sna.glif</string>
   <key>uniE319</key>
   <string>uniE_319.glif</string>
+  <key>uniE319.ism</key>
+  <string>uniE_319.ism.glif</string>
+  <key>uniE319.smr</key>
+  <string>uniE_319.smr.glif</string>
+  <key>uniE319.sna</key>
+  <string>uniE_319.sna.glif</string>
   <key>uniE31A</key>
   <string>uniE_31A_.glif</string>
+  <key>uniE31A.ism</key>
+  <string>uniE_31A_.ism.glif</string>
+  <key>uniE31A.smr</key>
+  <string>uniE_31A_.smr.glif</string>
+  <key>uniE31A.sna</key>
+  <string>uniE_31A_.sna.glif</string>
   <key>uniE31B</key>
   <string>uniE_31B_.glif</string>
+  <key>uniE31B.ism</key>
+  <string>uniE_31B_.ism.glif</string>
+  <key>uniE31B.smr</key>
+  <string>uniE_31B_.smr.glif</string>
+  <key>uniE31B.sna</key>
+  <string>uniE_31B_.sna.glif</string>
   <key>uniE31C</key>
   <string>uniE_31C_.glif</string>
+  <key>uniE31C.ism</key>
+  <string>uniE_31C_.ism.glif</string>
+  <key>uniE31C.smr</key>
+  <string>uniE_31C_.smr.glif</string>
+  <key>uniE31C.sna</key>
+  <string>uniE_31C_.sna.glif</string>
   <key>uniE31D</key>
   <string>uniE_31D_.glif</string>
+  <key>uniE31D.ism</key>
+  <string>uniE_31D_.ism.glif</string>
+  <key>uniE31D.smr</key>
+  <string>uniE_31D_.smr.glif</string>
+  <key>uniE31D.sna</key>
+  <string>uniE_31D_.sna.glif</string>
   <key>uniE31E</key>
   <string>uniE_31E_.glif</string>
+  <key>uniE31E.ism</key>
+  <string>uniE_31E_.ism.glif</string>
+  <key>uniE31E.smr</key>
+  <string>uniE_31E_.smr.glif</string>
+  <key>uniE31E.sna</key>
+  <string>uniE_31E_.sna.glif</string>
   <key>uniE31F</key>
   <string>uniE_31F_.glif</string>
+  <key>uniE31F.ism</key>
+  <string>uniE_31F_.ism.glif</string>
+  <key>uniE31F.smr</key>
+  <string>uniE_31F_.smr.glif</string>
+  <key>uniE31F.sna</key>
+  <string>uniE_31F_.sna.glif</string>
   <key>uniE320</key>
   <string>uniE_320.glif</string>
+  <key>uniE320.ism</key>
+  <string>uniE_320.ism.glif</string>
+  <key>uniE320.smr</key>
+  <string>uniE_320.smr.glif</string>
+  <key>uniE320.sna</key>
+  <string>uniE_320.sna.glif</string>
   <key>uniE321</key>
   <string>uniE_321.glif</string>
+  <key>uniE321.ism</key>
+  <string>uniE_321.ism.glif</string>
+  <key>uniE321.smr</key>
+  <string>uniE_321.smr.glif</string>
+  <key>uniE321.sna</key>
+  <string>uniE_321.sna.glif</string>
   <key>uniE322</key>
   <string>uniE_322.glif</string>
   <key>uniE323</key>
   <string>uniE_323.glif</string>
-  <key>uniE324</key>
-  <string>uniE_324.glif</string>
-  <key>uniE325</key>
-  <string>uniE_325.glif</string>
-  <key>uniE326</key>
-  <string>uniE_326.glif</string>
-  <key>uniE327</key>
-  <string>uniE_327.glif</string>
-  <key>uniE328</key>
-  <string>uniE_328.glif</string>
-  <key>uniE329</key>
-  <string>uniE_329.glif</string>
-  <key>uniE32A</key>
-  <string>uniE_32A_.glif</string>
-  <key>uniE32B</key>
-  <string>uniE_32B_.glif</string>
-  <key>uniE32C</key>
-  <string>uniE_32C_.glif</string>
-  <key>uniE32D</key>
-  <string>uniE_32D_.glif</string>
-  <key>uniE32E</key>
-  <string>uniE_32E_.glif</string>
-  <key>uniE32F</key>
-  <string>uniE_32F_.glif</string>
   <key>v</key>
   <string>v.glif</string>
   <key>w</key>
@@ -1922,7 +1920,5 @@
   <string>z.glif</string>
   <key>zero</key>
   <string>zero.glif</string>
-  <key>zhebreve</key>
-  <string>zhebreve.glif</string>
 </dict>
 </plist>

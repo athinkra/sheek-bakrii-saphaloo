@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniE31C.sna" format="2">
+  <advance width="1319"/>
+  <outline>
+    <contour>
+      <point x="1179" y="-2" type="qcurve" smooth="yes"/>
+      <point x="1179" y="-38"/>
+      <point x="1130" y="-81"/>
+      <point x="1094" y="-81" type="qcurve" smooth="yes"/>
+      <point x="898" y="-81" type="line" smooth="yes"/>
+      <point x="817" y="-81"/>
+      <point x="817" y="0" type="qcurve" smooth="yes"/>
+      <point x="817" y="81"/>
+      <point x="898" y="81" type="qcurve" smooth="yes"/>
+      <point x="989" y="81" type="line"/>
+      <point x="736" y="971" type="line"/>
+      <point x="437" y="-81" type="line"/>
+      <point x="222" y="-81" type="line" smooth="yes"/>
+      <point x="140" y="-81"/>
+      <point x="140" y="0" type="qcurve" smooth="yes"/>
+      <point x="140" y="81"/>
+      <point x="222" y="81" type="qcurve" smooth="yes"/>
+      <point x="312" y="81" type="line"/>
+      <point x="627" y="1186" type="line"/>
+      <point x="374" y="1186" type="line" smooth="yes"/>
+      <point x="293" y="1186"/>
+      <point x="293" y="1267" type="qcurve" smooth="yes"/>
+      <point x="293" y="1349"/>
+      <point x="374" y="1349" type="qcurve" smooth="yes"/>
+      <point x="1097" y="1349" type="line" smooth="yes"/>
+      <point x="1179" y="1349"/>
+      <point x="1179" y="1267" type="qcurve" smooth="yes"/>
+      <point x="1179" y="1186"/>
+      <point x="1097" y="1186" type="qcurve" smooth="yes"/>
+      <point x="844" y="1186" type="line"/>
+      <point x="1173" y="33" type="line"/>
+      <point x="1179" y="9"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>0.965,0.6,1,1</string>
+  </dict>
+  </lib>
+</glyph>

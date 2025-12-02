@@ -1,7 +1,53 @@
 #> languagesystem
 languagesystem DFLT dflt;
 languagesystem latn dflt;
-languagesystem cyrl dflt;
 languagesystem hebr dflt;
 #< languagesystem
+# Sheikh Bakrii Saphaloo (SBS) / Sheikh Mahammadsiraac Sheikh Bakrii (SMSB)
+@sbs_digits = [uniE318 uniE319 uniE31A uniE31B uniE31C uniE31D uniE31E uniE31F uniE320 uniE321] ;
+# Sheikh Mahammad Rashad (SMR)
+@smr_digits = [uniE318.smr uniE319.smr uniE31A.smr uniE31B.smr uniE31C.smr uniE31D.smr uniE31E.smr uniE31F.smr uniE320.smr uniE321.smr] ;
+# Ibsa Sheikh Mahammadsiraac (ISM)
+@ism_digits = [uniE318.ism uniE319.ism uniE31A.ism uniE31B.ism uniE31C.ism uniE31D.ism uniE31E.ism uniE31F.ism uniE320.ism uniE321.ism] ;
+# Sheikh Nuradin Ahmad (SNA)
+@sna_digits = [uniE318.sna uniE319.sna uniE31A.sna uniE31B.sna uniE31C.sna uniE31D.sna uniE31E.sna uniE31F.sna uniE320.sna uniE321.sna] ;
+feature ss01 {
+  # Sheikh Mahammad Rashad (SMR)
+  sub @sbs_digits by @smr_digits ;
+} ss01;
+feature ss02 {
+  # Ibsa Sheikh Mahammadsiraac (ISM)
+  sub @sbs_digits by @ism_digits ;
+} ss02;
+feature ss03 {
+  sub @sbs_digits by @sna_digits ;
+} ss03;
+feature cv01 {
+    # Digit Alternates
+    cvParameters {
+          FeatUILabelNameID {
+            name 3 1 0x409 "Digit Alternatives";
+          };
+          ParamUILabelNameID {
+            name 3 1 0x409 "Sheikh Mahammad Rashad";
+          };
+          ParamUILabelNameID {
+            name 3 1 0x409  "Ibsa Sheikh Mahammadsiraac";
+          };
+          ParamUILabelNameID {
+            name 3 1 0x409  "Sheikh Nuradin Ahmad";
+          };
+    };
 
+    sub uniE318 from [uniE318.smr uniE318.ism uniE318.sna];
+    sub uniE319 from [uniE319.smr uniE319.ism uniE319.sna];
+    sub uniE31A from [uniE31A.smr uniE31A.ism uniE31A.sna];
+    sub uniE31B from [uniE31B.smr uniE31B.ism uniE31B.sna];
+    sub uniE31C from [uniE31C.smr uniE31C.ism uniE31C.sna];
+    sub uniE31D from [uniE31D.smr uniE31D.ism uniE31D.sna];
+    sub uniE31E from [uniE31E.smr uniE31E.ism uniE31E.sna];
+    sub uniE31F from [uniE31F.smr uniE31F.ism uniE31F.sna];
+    sub uniE320 from [uniE320.smr uniE320.ism uniE320.sna];
+    sub uniE321 from [uniE321.smr uniE321.ism uniE321.sna];
+
+} cv01;

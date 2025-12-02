@@ -6,15 +6,15 @@
     <contour>
       <point x="762.63" y="412.209" type="line" smooth="yes"/>
       <point x="762.63" y="113.865"/>
-      <point x="600.218" y="25.5976" type="qcurve" smooth="yes"/>
-      <point x="515.482" y="-22.0668"/>
-      <point x="399.851" y="-22.0668" type="qcurve" smooth="yes"/>
-      <point x="45.0163" y="-22.0668"/>
-      <point x="52.0777" y="367.192" type="qcurve"/>
+      <point x="600.218" y="25.598" type="qcurve" smooth="yes"/>
+      <point x="515.482" y="-22.067"/>
+      <point x="399.851" y="-22.067" type="qcurve" smooth="yes"/>
+      <point x="45.016" y="-22.067"/>
+      <point x="52.078" y="367.192" type="qcurve"/>
       <point x="205.663" y="388.377" type="line"/>
-      <point x="211.842" y="267.45"/>
-      <point x="246.266" y="210.076" type="qcurve"/>
-      <point x="291.282" y="129.753"/>
+      <point x="212.83" y="268.032"/>
+      <point x="246.266" y="210.076" type="qcurve" smooth="yes"/>
+      <point x="292.279" y="130.32"/>
       <point x="399.851" y="129.753" type="qcurve" smooth="yes"/>
       <point x="536.666" y="129.753"/>
       <point x="574.621" y="240.087" type="qcurve" smooth="yes"/>

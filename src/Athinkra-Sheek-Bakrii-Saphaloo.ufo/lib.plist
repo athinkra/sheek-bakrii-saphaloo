@@ -17,6 +17,17 @@
       </dict>
     </dict>
   </dict>
+  <key>com.schriftgestaltung.fontMaster.Alignment Zones</key>
+  <array>
+    <dict>
+      <key>name</key>
+      <string>base</string>
+      <key>position</key>
+      <integer>0</integer>
+      <key>size</key>
+      <integer>-20</integer>
+    </dict>
+  </array>
   <key>public.glyphOrder</key>
   <array>
     <string>space</string>
@@ -140,27 +151,6 @@
     <string>yacute</string>
     <string>thorn</string>
     <string>ydieresis</string>
-    <string>TeTse</string>
-    <string>tetse</string>
-    <string>Chertdes</string>
-    <string>chertdes</string>
-    <string>Chevertbar</string>
-    <string>chevertbar</string>
-    <string>Hcyril</string>
-    <string>hcyril</string>
-    <string>Iehook</string>
-    <string>iehook</string>
-    <string>Iehookogonek</string>
-    <string>iehookogonek</string>
-    <string>Icyril1</string>
-    <string>Zhebreve</string>
-    <string>zhebreve</string>
-    <string>Kahook</string>
-    <string>kahook</string>
-    <string>Enhook</string>
-    <string>enhook</string>
-    <string>Cheleftdes</string>
-    <string>cheleftdes</string>
     <string>sheva</string>
     <string>uniE000</string>
     <string>uniE001</string>
@@ -954,6 +944,18 @@
     <string>uniE315</string>
     <string>uniE316</string>
     <string>uniE317</string>
+    <string>uniE318.smr</string>
+    <string>uniE319.smr</string>
+    <string>uniE31A.smr</string>
+    <string>uniE31B.smr</string>
+    <string>uniE31C.smr</string>
+    <string>uniE31D.smr</string>
+    <string>uniE31E.smr</string>
+    <string>uniE31F.smr</string>
+    <string>uniE320.smr</string>
+    <string>uniE321.smr</string>
+    <string>uniE322</string>
+    <string>uniE323</string>
     <string>uniE318</string>
     <string>uniE319</string>
     <string>uniE31A</string>
@@ -964,22 +966,29 @@
     <string>uniE31F</string>
     <string>uniE320</string>
     <string>uniE321</string>
-    <string>uniE322</string>
-    <string>uniE323</string>
-    <string>uniE324</string>
-    <string>uniE325</string>
-    <string>uniE326</string>
-    <string>uniE327</string>
-    <string>uniE328</string>
-    <string>uniE329</string>
-    <string>uniE32A</string>
-    <string>uniE32B</string>
-    <string>uniE32C</string>
-    <string>uniE32D</string>
-    <string>uniE32E</string>
-    <string>uniE32F</string>
     <string>quoteright</string>
     <string>.notdef</string>
+    <string>uniE321.ism</string>
+    <string>uniE318.ism</string>
+    <string>uniE319.ism</string>
+    <string>uniE31A.ism</string>
+    <string>uniE31B.ism</string>
+    <string>uniE31D.ism</string>
+    <string>uniE31E.ism</string>
+    <string>uniE31F.ism</string>
+    <string>uniE320.ism</string>
+    <string>uniE31C.ism</string>
+    <string>uniE318.sna</string>
+    <string>uniE319.sna</string>
+    <string>uniE31A.sna</string>
+    <string>uniE31B.sna</string>
+    <string>uniE31C.sna</string>
+    <string>uniE31D.sna</string>
+    <string>uniE31E.sna</string>
+    <string>uniE31F.sna</string>
+    <string>uniE321.sna</string>
+    <string>uniE320.sna</string>
+    <string>uniE240.alt</string>
   </array>
 </dict>
 </plist>

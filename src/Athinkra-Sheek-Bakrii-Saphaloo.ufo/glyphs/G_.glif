@@ -5,15 +5,15 @@
   <outline>
     <contour>
       <point x="1292.23" y="180.948" type="line"/>
-      <point x="1039.79" y="-22.0668"/>
-      <point x="757.334" y="-22.0668" type="qcurve" smooth="yes"/>
-      <point x="569.325" y="-22.0668"/>
-      <point x="419.27" y="53.8431" type="qcurve" smooth="yes"/>
+      <point x="1039.79" y="-22.067"/>
+      <point x="757.334" y="-22.067" type="qcurve" smooth="yes"/>
+      <point x="569.325" y="-22.067"/>
+      <point x="419.27" y="53.843" type="qcurve" smooth="yes"/>
       <point x="256.858" y="137.697"/>
       <point x="175.652" y="296.578" type="qcurve" smooth="yes"/>
-      <point x="96.2115" y="450.164"/>
-      <point x="96.2115" y="639.939" type="qcurve" smooth="yes"/>
-      <point x="96.2115" y="827.948"/>
+      <point x="96.211" y="450.164"/>
+      <point x="96.211" y="639.939" type="qcurve" smooth="yes"/>
+      <point x="96.211" y="827.948"/>
       <point x="170.356" y="981.534" type="qcurve" smooth="yes"/>
       <point x="251.562" y="1155.42"/>
       <point x="551.671" y="1316.07"/>
