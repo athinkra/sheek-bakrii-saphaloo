@@ -30,11 +30,11 @@
       <point x="358" y="828"/>
       <point x="284" y="714" type="qcurve" smooth="yes"/>
       <point x="224" y="620"/>
-      <point x="224" y="468" type="qcurve" smooth="yes"/>
-      <point x="222.69" y="317.168"/>
+      <point x="224" y="468" type="qcurve"/>
+      <point x="223" y="317"/>
       <point x="284" y="222" type="qcurve" smooth="yes"/>
-      <point x="356.7" y="109.152"/>
-      <point x="499" y="110" type="qcurve" smooth="yes"/>
+      <point x="357" y="109"/>
+      <point x="499" y="110" type="qcurve"/>
       <point x="643" y="110"/>
       <point x="716" y="226" type="qcurve" smooth="yes"/>
       <point x="776" y="322"/>

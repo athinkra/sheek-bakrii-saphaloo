@@ -7,13 +7,23 @@
   <key>capHeight</key>
   <integer>1294</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2023-2025, Raey Type (https://github.com/raeytype), with Reserved Font Names: &quot;Sheek Bakrii Saphaloo&quot; and &quot;Sheek Bakrii Saphaloo Regular&quot;.</string>
+  <string>Copyright (c) 2023-2026, Raey Type (https://github.com/raeytype), with Reserved Font Names: &quot;Sheek Bakrii Saphaloo&quot; and &quot;Sheek Bakrii Saphaloo Regular&quot;.</string>
   <key>descender</key>
   <integer>-380</integer>
   <key>familyName</key>
   <string>Sheek Bakrii Saphaloo</string>
   <key>guidelines</key>
   <array>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
+    <integer>512</integer>
+  </dict>
   <dict>
     <key>angle</key>
     <integer>0</integer>
@@ -82,7 +92,7 @@
   </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2025/09/24 21:43:17</string>
+  <string>2026/01/25 15:08:12</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -94,12 +104,18 @@
   <integer>-430</integer>
   <key>openTypeHheaLineGap</key>
   <integer>-0</integer>
+  <key>openTypeNameDescription</key>
+  <string>The original letter shapes of this font were created by Jason Glavy based on the reference:
+
+Hayward, Richard J., and Mohammed Hassan. &quot;The Oromo orthography of Shaykh Bakri Saṗalō.&quot; Bulletin of the School of Oriental and African Studies 44.3 (1981): 550-566.
+
+The reference in turn reflects the handwriting of Sheek Mahammad Rashad. The shapes were later refined by Daniel Yacob &amp; Oreen Yousuf. Redesigned shapes were created by Behailu Berento Molla to reflect the handwriting of Sheek Bakrii Saphaloo.</string>
   <key>openTypeNameDesigner</key>
-  <string>Jason Glavy</string>
+  <string>Jason Glavy, Behailu Berento Molla</string>
   <key>openTypeNameDesignerURL</key>
-  <string>http://glavyfonts.com/</string>
+  <string>http://glavyfonts.com/, https://instagram.com/typehabesha</string>
   <key>openTypeNameLicense</key>
-  <string>This Font Software is Copyright (c) 2023, Raey Type (https://github.com/raeytype), with Reserved Font Names: &quot;Sheek Bakrii Saphaloo&quot; and &quot;Sheek Bakrii Saphaloo Regular&quot;.
+  <string>This Font Software is Copyright (c) 2023-2026, Raey Type (https://github.com/raeytype), with Reserved Font Names: &quot;Sheek Bakrii Saphaloo&quot; and &quot;Sheek Bakrii Saphaloo Regular&quot;.
 
 This Font Software is Copyright (c) 2006-2023, Athinkra, LLC (zenodotus@gmail.com&gt;), with reserved font name &quot;JG Oromo&quot;.
 Copyright (c) 2006, Jason Glavy (&lt;www.glavyfonts.com|jglavy@gmail.com&gt;).
@@ -156,7 +172,7 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
   <key>openTypeNameVersion</key>
-  <string>Version 1.070</string>
+  <string>Version 1.100</string>
   <key>openTypeOS2Panose</key>
   <array>
     <integer>0</integer>
@@ -258,7 +274,7 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <key>versionMajor</key>
   <integer>1</integer>
   <key>versionMinor</key>
-  <integer>70</integer>
+  <integer>100</integer>
   <key>xHeight</key>
   <integer>938</integer>
 </dict>

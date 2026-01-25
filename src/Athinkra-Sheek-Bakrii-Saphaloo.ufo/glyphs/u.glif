@@ -16,7 +16,7 @@
       <point x="138.39" y="138.987"/>
       <point x="124.457" y="208.311" type="qcurve" smooth="yes"/>
       <point x="115.076" y="254.985"/>
-      <point x="115.63" y="355.718" type="qcurve" smooth="yes"/>
+      <point x="115.63" y="355.718" type="qcurve"/>
       <point x="115.63" y="938.282" type="line"/>
       <point x="274.512" y="938.282" type="line"/>
       <point x="274.512" y="417.505" type="line" smooth="yes"/>

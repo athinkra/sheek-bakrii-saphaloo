@@ -4,13 +4,13 @@ languagesystem latn dflt;
 languagesystem hebr dflt;
 #< languagesystem
 # Sheikh Bakrii Saphaloo (SBS) / Sheikh Mahammadsiraac Sheikh Bakrii (SMSB)
-@sbs_digits = [uniE318 uniE319 uniE31A uniE31B uniE31C uniE31D uniE31E uniE31F uniE320 uniE321] ;
+@sbs_digits = [uni1CB20 uni1CB21 uni1CB22 uni1CB23 uni1CB24 uni1CB25 uni1CB26 uni1CB27 uni1CB28 uni1CB29] ;
 # Sheikh Mahammad Rashad (SMR)
-@smr_digits = [uniE318.smr uniE319.smr uniE31A.smr uniE31B.smr uniE31C.smr uniE31D.smr uniE31E.smr uniE31F.smr uniE320.smr uniE321.smr] ;
+@smr_digits = [uni1CB20.smr uni1CB21.smr uni1CB22.smr uni1CB23.smr uni1CB24.smr uni1CB25.smr uni1CB26.smr uni1CB27.smr uni1CB28.smr uni1CB29.smr] ;
 # Ibsa Sheikh Mahammadsiraac (ISM)
-@ism_digits = [uniE318.ism uniE319.ism uniE31A.ism uniE31B.ism uniE31C.ism uniE31D.ism uniE31E.ism uniE31F.ism uniE320.ism uniE321.ism] ;
+@ism_digits = [uni1CB20.ism uni1CB21.ism uni1CB22.ism uni1CB23.ism uni1CB24.ism uni1CB25.ism uni1CB26.ism uni1CB27.ism uni1CB28.ism uni1CB29.ism] ;
 # Sheikh Nuradin Ahmad (SNA)
-@sna_digits = [uniE318.sna uniE319.sna uniE31A.sna uniE31B.sna uniE31C.sna uniE31D.sna uniE31E.sna uniE31F.sna uniE320.sna uniE321.sna] ;
+@sna_digits = [uni1CB20.sna uni1CB21.sna uni1CB22.sna uni1CB23.sna uni1CB24.sna uni1CB25.sna uni1CB26.sna uni1CB27.sna uni1CB28.sna uni1CB29.sna] ;
 feature ss01 {
   # Sheikh Mahammad Rashad (SMR)
   sub @sbs_digits by @smr_digits ;

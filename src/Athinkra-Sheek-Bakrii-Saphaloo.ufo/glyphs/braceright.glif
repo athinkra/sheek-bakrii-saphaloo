@@ -8,20 +8,20 @@
       <point x="415.739" y="391.907"/>
       <point x="384.846" y="263.92" type="qcurve" smooth="yes"/>
       <point x="368.958" y="195.071"/>
-      <point x="368.958" y="65.318" type="qcurve" smooth="yes"/>
+      <point x="368.958" y="65.318" type="qcurve"/>
       <point x="370.007" y="-93.6558"/>
       <point x="365.427" y="-139.463" type="qcurve" smooth="yes"/>
       <point x="346.372" y="-330.053"/>
       <point x="200.367" y="-370.723" type="qcurve" smooth="yes"/>
       <point x="166.133" y="-380.259"/>
-      <point x="90.033" y="-379.55" type="qcurve" smooth="yes"/>
+      <point x="90.033" y="-379.55" type="qcurve"/>
       <point x="41.486" y="-379.55" type="line"/>
       <point x="41.486" y="-241.853" type="line"/>
       <point x="68.849" y="-241.853" type="line" smooth="yes"/>
       <point x="165.943" y="-241.853"/>
       <point x="196.836" y="-198.602" type="qcurve" smooth="yes"/>
       <point x="220.668" y="-165.943"/>
-      <point x="220.668" y="-60.022" type="qcurve" smooth="yes"/>
+      <point x="220.668" y="-60.022" type="qcurve"/>
       <point x="219.49" y="162.567"/>
       <point x="227.73" y="220.668" type="qcurve" smooth="yes"/>
       <point x="253.917" y="405.318"/>
@@ -29,13 +29,13 @@
       <point x="287.752" y="524.308"/>
       <point x="248.031" y="631.112" type="qcurve" smooth="yes"/>
       <point x="220.668" y="707.022"/>
-      <point x="220.668" y="865.903" type="qcurve" smooth="yes"/>
+      <point x="220.668" y="865.903" type="qcurve"/>
       <point x="221.584" y="1031.94"/>
       <point x="217.138" y="1071.57" type="qcurve" smooth="yes"/>
       <point x="209.555" y="1139.34"/>
       <point x="172.121" y="1160.72" type="qcurve" smooth="yes"/>
       <point x="143.314" y="1177.18"/>
-      <point x="68.849" y="1176.6" type="qcurve" smooth="yes"/>
+      <point x="68.849" y="1176.6" type="qcurve"/>
       <point x="41.486" y="1176.6" type="line"/>
       <point x="41.486" y="1316.07" type="line"/>
       <point x="90.033" y="1316.07" type="line" smooth="yes"/>
