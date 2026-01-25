@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OTLayout>
+<name>
+  <namerecord nameID = "256" platformID = "3" platEncID = "1" langID = "0x409">
+Digit Alternatives
+  </namerecord>
+  <namerecord nameID = "257" platformID = "3" platEncID = "1" langID = "0x409">
+Sheikh Mahammad Rashad
+  </namerecord>
+  <namerecord nameID = "258" platformID = "3" platEncID = "1" langID = "0x409">
+Ibsa Sheikh Mahammadsiraac
+  </namerecord>
+  <namerecord nameID = "259" platformID = "3" platEncID = "1" langID = "0x409">
+Sheikh Nuradin Ahmad
+  </namerecord>
+</name>
+<GSUB>
+  <Version value="1.0"/>
+  <ScriptList>
+    <!-- ScriptCount=3 -->
+    <ScriptRecord index="0">
+      <ScriptTag value="DFLT"/>
+      <Script>
+        <DefaultLangSys>
+          <ReqFeatureIndex value="65535"/>
+          <!-- FeatureCount=4 -->
+          <FeatureIndex index="0" value="0"/>
+          <FeatureIndex index="1" value="3"/>
+          <FeatureIndex index="2" value="7"/>
+          <FeatureIndex index="3" value="10"/>
+        </DefaultLangSys>
+        <!-- LangSysCount=0 -->
+      </Script>
+    </ScriptRecord>
+    <ScriptRecord index="1">
+      <ScriptTag value="hebr"/>
+      <Script>
+        <DefaultLangSys>
+          <ReqFeatureIndex value="65535"/>
+          <!-- FeatureCount=4 -->
+          <FeatureIndex index="0" value="2"/>
+          <FeatureIndex index="1" value="5"/>
+          <FeatureIndex index="2" value="6"/>
+          <FeatureIndex index="3" value="9"/>
+        </DefaultLangSys>
+        <!-- LangSysCount=0 -->
+      </Script>
+    </ScriptRecord>
+    <ScriptRecord index="2">
+      <ScriptTag value="latn"/>
+      <Script>
+        <DefaultLangSys>
+          <ReqFeatureIndex value="65535"/>
+          <!-- FeatureCount=4 -->
+          <FeatureIndex index="0" value="1"/>
+          <FeatureIndex index="1" value="4"/>
+          <FeatureIndex index="2" value="8"/>
+          <FeatureIndex index="3" value="11"/>
+        </DefaultLangSys>
+        <!-- LangSysCount=0 -->
+      </Script>
+    </ScriptRecord>
+  </ScriptList>
+  <FeatureList>
+    <!-- FeatureCount=12 -->
+    <FeatureRecord index="0">
+      <FeatureTag value="cv01"/>
+      <Feature>
+        <FeatureParamsCharacterVariants Format="0">
+          <Format value="0"/>
+          <FeatUILabelNameID value="256"/>
+          <FeatUITooltipTextNameID value="0"/>
+          <SampleTextNameID value="0"/>
+          <NumNamedParameters value="3"/>
+          <FirstParamUILabelNameID value="257"/>
+        </FeatureParamsCharacterVariants>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="1">
+      <FeatureTag value="cv01"/>
+      <Feature>
+        <FeatureParamsCharacterVariants Format="0">
+          <Format value="0"/>
+          <FeatUILabelNameID value="256"/>
+          <FeatUITooltipTextNameID value="0"/>
+          <SampleTextNameID value="0"/>
+          <NumNamedParameters value="3"/>
+          <FirstParamUILabelNameID value="257"/>
+        </FeatureParamsCharacterVariants>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="2">
+      <FeatureTag value="cv01"/>
+      <Feature>
+        <FeatureParamsCharacterVariants Format="0">
+          <Format value="0"/>
+          <FeatUILabelNameID value="256"/>
+          <FeatUITooltipTextNameID value="0"/>
+          <SampleTextNameID value="0"/>
+          <NumNamedParameters value="3"/>
+          <FirstParamUILabelNameID value="257"/>
+        </FeatureParamsCharacterVariants>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="3"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="3">
+      <FeatureTag value="ss01"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="0"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="4">
+      <FeatureTag value="ss01"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="0"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="5">
+      <FeatureTag value="ss01"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="0"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="6">
+      <FeatureTag value="ss02"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="1"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="7">
+      <FeatureTag value="ss02"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="1"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="8">
+      <FeatureTag value="ss02"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="1"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="9">
+      <FeatureTag value="ss03"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="2"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="10">
+      <FeatureTag value="ss03"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="2"/>
+      </Feature>
+    </FeatureRecord>
+    <FeatureRecord index="11">
+      <FeatureTag value="ss03"/>
+      <Feature>
+        <!-- LookupCount=1 -->
+        <LookupListIndex index="0" value="2"/>
+      </Feature>
+    </FeatureRecord>
+  </FeatureList>
+  <LookupList>
+    <!-- LookupCount=4 -->
+    <Lookup index="0">
+      <LookupType value="1"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <SingleSubst index="0" Format="2">
+        <Substitution in="uni1CB20" out="uni1CB20.smr"/>
+        <Substitution in="uni1CB21" out="uni1CB21.smr"/>
+        <Substitution in="uni1CB22" out="uni1CB22.smr"/>
+        <Substitution in="uni1CB23" out="uni1CB23.smr"/>
+        <Substitution in="uni1CB24" out="uni1CB24.smr"/>
+        <Substitution in="uni1CB25" out="uni1CB25.smr"/>
+        <Substitution in="uni1CB26" out="uni1CB26.smr"/>
+        <Substitution in="uni1CB27" out="uni1CB27.smr"/>
+        <Substitution in="uni1CB28" out="uni1CB28.smr"/>
+        <Substitution in="uni1CB29" out="uni1CB29.smr"/>
+      </SingleSubst>
+    </Lookup>
+    <Lookup index="1">
+      <LookupType value="1"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <SingleSubst index="0" Format="2">
+        <Substitution in="uni1CB20" out="uni1CB20.ism"/>
+        <Substitution in="uni1CB21" out="uni1CB21.ism"/>
+        <Substitution in="uni1CB22" out="uni1CB22.ism"/>
+        <Substitution in="uni1CB23" out="uni1CB23.ism"/>
+        <Substitution in="uni1CB24" out="uni1CB24.ism"/>
+        <Substitution in="uni1CB25" out="uni1CB25.ism"/>
+        <Substitution in="uni1CB26" out="uni1CB26.ism"/>
+        <Substitution in="uni1CB27" out="uni1CB27.ism"/>
+        <Substitution in="uni1CB28" out="uni1CB28.ism"/>
+        <Substitution in="uni1CB29" out="uni1CB29.ism"/>
+      </SingleSubst>
+    </Lookup>
+    <Lookup index="2">
+      <LookupType value="1"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <SingleSubst index="0" Format="2">
+        <Substitution in="uni1CB20" out="uni1CB20.sna"/>
+        <Substitution in="uni1CB21" out="uni1CB21.sna"/>
+        <Substitution in="uni1CB22" out="uni1CB22.sna"/>
+        <Substitution in="uni1CB23" out="uni1CB23.sna"/>
+        <Substitution in="uni1CB24" out="uni1CB24.sna"/>
+        <Substitution in="uni1CB25" out="uni1CB25.sna"/>
+        <Substitution in="uni1CB26" out="uni1CB26.sna"/>
+        <Substitution in="uni1CB27" out="uni1CB27.sna"/>
+        <Substitution in="uni1CB28" out="uni1CB28.sna"/>
+        <Substitution in="uni1CB29" out="uni1CB29.sna"/>
+      </SingleSubst>
+    </Lookup>
+    <Lookup index="3">
+      <LookupType value="3"/>
+      <LookupFlag value="0"/>
+      <!-- SubTableCount=1 -->
+      <AlternateSubst index="0" Format="1">
+        <AlternateSet glyph="uni1CB20">
+          <Alternate glyph="uni1CB20.smr"/>
+          <Alternate glyph="uni1CB20.ism"/>
+          <Alternate glyph="uni1CB20.sna"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni1CB21">
+          <Alternate glyph="uni1CB21.smr"/>
+          <Alternate glyph="uni1CB21.ism"/>
+          <Alternate glyph="uni1CB21.sna"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni1CB22">
+          <Alternate glyph="uni1CB22.smr"/>
+          <Alternate glyph="uni1CB22.ism"/>
+          <Alternate glyph="uni1CB22.sna"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni1CB23">
+          <Alternate glyph="uni1CB23.smr"/>
+          <Alternate glyph="uni1CB23.ism"/>
+          <Alternate glyph="uni1CB23.sna"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni1CB24">
+          <Alternate glyph="uni1CB24.smr"/>
+          <Alternate glyph="uni1CB24.ism"/>
+          <Alternate glyph="uni1CB24.sna"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni1CB25">
+          <Alternate glyph="uni1CB25.smr"/>
+          <Alternate glyph="uni1CB25.ism"/>
+          <Alternate glyph="uni1CB25.sna"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni1CB26">
+          <Alternate glyph="uni1CB26.smr"/>
+          <Alternate glyph="uni1CB26.ism"/>
+          <Alternate glyph="uni1CB26.sna"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni1CB27">
+          <Alternate glyph="uni1CB27.smr"/>
+          <Alternate glyph="uni1CB27.ism"/>
+          <Alternate glyph="uni1CB27.sna"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni1CB28">
+          <Alternate glyph="uni1CB28.smr"/>
+          <Alternate glyph="uni1CB28.ism"/>
+          <Alternate glyph="uni1CB28.sna"/>
+        </AlternateSet>
+        <AlternateSet glyph="uni1CB29">
+          <Alternate glyph="uni1CB29.smr"/>
+          <Alternate glyph="uni1CB29.ism"/>
+          <Alternate glyph="uni1CB29.sna"/>
+        </AlternateSet>
+      </AlternateSubst>
+    </Lookup>
+  </LookupList>
+</GSUB>
+</OTLayout>

@@ -22,10 +22,10 @@
       <point x="560" y="958" type="qcurve" smooth="yes"/>
       <point x="743" y="958"/>
       <point x="823" y="848" type="qcurve" smooth="yes"/>
-      <point x="859" y="799"/>
-      <point x="871" y="730" type="qcurve"/>
-      <point x="880" y="687"/>
-      <point x="880" y="576" type="qcurve" smooth="yes"/>
+      <point x="858" y="799"/>
+      <point x="871" y="730" type="qcurve" smooth="yes"/>
+      <point x="879" y="687"/>
+      <point x="880" y="576" type="qcurve"/>
     </contour>
   </outline>
 </glyph>

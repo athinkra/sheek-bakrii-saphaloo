@@ -1,7 +1,53 @@
 #> languagesystem
 languagesystem DFLT dflt;
 languagesystem latn dflt;
-languagesystem cyrl dflt;
 languagesystem hebr dflt;
 #< languagesystem
+# Sheikh Bakrii Saphaloo (SBS) / Sheikh Mahammadsiraac Sheikh Bakrii (SMSB)
+@sbs_digits = [uni1CB20 uni1CB21 uni1CB22 uni1CB23 uni1CB24 uni1CB25 uni1CB26 uni1CB27 uni1CB28 uni1CB29] ;
+# Sheikh Mahammad Rashad (SMR)
+@smr_digits = [uni1CB20.smr uni1CB21.smr uni1CB22.smr uni1CB23.smr uni1CB24.smr uni1CB25.smr uni1CB26.smr uni1CB27.smr uni1CB28.smr uni1CB29.smr] ;
+# Ibsa Sheikh Mahammadsiraac (ISM)
+@ism_digits = [uni1CB20.ism uni1CB21.ism uni1CB22.ism uni1CB23.ism uni1CB24.ism uni1CB25.ism uni1CB26.ism uni1CB27.ism uni1CB28.ism uni1CB29.ism] ;
+# Sheikh Nuradin Ahmad (SNA)
+@sna_digits = [uni1CB20.sna uni1CB21.sna uni1CB22.sna uni1CB23.sna uni1CB24.sna uni1CB25.sna uni1CB26.sna uni1CB27.sna uni1CB28.sna uni1CB29.sna] ;
+feature ss01 {
+  # Sheikh Mahammad Rashad (SMR)
+  sub @sbs_digits by @smr_digits ;
+} ss01;
+feature ss02 {
+  # Ibsa Sheikh Mahammadsiraac (ISM)
+  sub @sbs_digits by @ism_digits ;
+} ss02;
+feature ss03 {
+  sub @sbs_digits by @sna_digits ;
+} ss03;
+feature cv01 {
+    # Digit Alternates
+    cvParameters {
+          FeatUILabelNameID {
+            name 3 1 0x409 "Digit Alternatives";
+          };
+          ParamUILabelNameID {
+            name 3 1 0x409 "Sheikh Mahammad Rashad";
+          };
+          ParamUILabelNameID {
+            name 3 1 0x409  "Ibsa Sheikh Mahammadsiraac";
+          };
+          ParamUILabelNameID {
+            name 3 1 0x409  "Sheikh Nuradin Ahmad";
+          };
+    };
 
+    sub uni1CB20 from [uni1CB20.smr uni1CB20.ism uni1CB20.sna];
+    sub uni1CB21 from [uni1CB21.smr uni1CB21.ism uni1CB21.sna];
+    sub uni1CB22 from [uni1CB22.smr uni1CB22.ism uni1CB22.sna];
+    sub uni1CB23 from [uni1CB23.smr uni1CB23.ism uni1CB23.sna];
+    sub uni1CB24 from [uni1CB24.smr uni1CB24.ism uni1CB24.sna];
+    sub uni1CB25 from [uni1CB25.smr uni1CB25.ism uni1CB25.sna];
+    sub uni1CB26 from [uni1CB26.smr uni1CB26.ism uni1CB26.sna];
+    sub uni1CB27 from [uni1CB27.smr uni1CB27.ism uni1CB27.sna];
+    sub uni1CB28 from [uni1CB28.smr uni1CB28.ism uni1CB28.sna];
+    sub uni1CB29 from [uni1CB29.smr uni1CB29.ism uni1CB29.sna];
+
+} cv01;

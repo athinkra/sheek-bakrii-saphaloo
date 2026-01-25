@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1CB21.ism" format="2">
+  <advance width="443"/>
+  <outline>
+    <contour>
+      <point x="303" y="0" type="line" smooth="yes"/>
+      <point x="303" y="-81"/>
+      <point x="221" y="-81" type="qcurve" smooth="yes"/>
+      <point x="140" y="-81"/>
+      <point x="140" y="0" type="qcurve" smooth="yes"/>
+      <point x="140" y="1224" type="line" smooth="yes"/>
+      <point x="140" y="1305"/>
+      <point x="221" y="1305" type="qcurve" smooth="yes"/>
+      <point x="303" y="1305"/>
+      <point x="303" y="1224" type="qcurve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.markColor</key>
+  <string>1,0.994,0.6,1</string>
+  </dict>
+  </lib>
+</glyph>
