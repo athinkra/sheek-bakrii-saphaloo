@@ -9,6 +9,10 @@ Licese v1.1 on August 28, 2023.
 All modifications to the original JG Oromo font are detailed in the following:
 
 
+Version 1.1
+-----------
+* Remap of glyphs into the provisionally assigned Unicode Shaaldaa Block (U+1C800 - U+1CB2F).
+
 Version 1.0
 -----------
 * Characters are relocated into the Unicode Private Use Area beginning from
