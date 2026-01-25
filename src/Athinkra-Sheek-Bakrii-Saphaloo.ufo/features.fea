@@ -39,15 +39,15 @@ feature cv01 {
           };
     };
 
-    sub uniE318 from [uniE318.smr uniE318.ism uniE318.sna];
-    sub uniE319 from [uniE319.smr uniE319.ism uniE319.sna];
-    sub uniE31A from [uniE31A.smr uniE31A.ism uniE31A.sna];
-    sub uniE31B from [uniE31B.smr uniE31B.ism uniE31B.sna];
-    sub uniE31C from [uniE31C.smr uniE31C.ism uniE31C.sna];
-    sub uniE31D from [uniE31D.smr uniE31D.ism uniE31D.sna];
-    sub uniE31E from [uniE31E.smr uniE31E.ism uniE31E.sna];
-    sub uniE31F from [uniE31F.smr uniE31F.ism uniE31F.sna];
-    sub uniE320 from [uniE320.smr uniE320.ism uniE320.sna];
-    sub uniE321 from [uniE321.smr uniE321.ism uniE321.sna];
+    sub uni1CB20 from [uni1CB20.smr uni1CB20.ism uni1CB20.sna];
+    sub uni1CB21 from [uni1CB21.smr uni1CB21.ism uni1CB21.sna];
+    sub uni1CB22 from [uni1CB22.smr uni1CB22.ism uni1CB22.sna];
+    sub uni1CB23 from [uni1CB23.smr uni1CB23.ism uni1CB23.sna];
+    sub uni1CB24 from [uni1CB24.smr uni1CB24.ism uni1CB24.sna];
+    sub uni1CB25 from [uni1CB25.smr uni1CB25.ism uni1CB25.sna];
+    sub uni1CB26 from [uni1CB26.smr uni1CB26.ism uni1CB26.sna];
+    sub uni1CB27 from [uni1CB27.smr uni1CB27.ism uni1CB27.sna];
+    sub uni1CB28 from [uni1CB28.smr uni1CB28.ism uni1CB28.sna];
+    sub uni1CB29 from [uni1CB29.smr uni1CB29.ism uni1CB29.sna];
 
 } cv01;

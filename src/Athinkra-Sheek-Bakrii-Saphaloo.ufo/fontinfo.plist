@@ -32,6 +32,16 @@
     <key>x</key>
     <integer>0</integer>
     <key>y</key>
+    <integer>512</integer>
+  </dict>
+  <dict>
+    <key>angle</key>
+    <integer>0</integer>
+    <key>name</key>
+    <string>m</string>
+    <key>x</key>
+    <integer>0</integer>
+    <key>y</key>
     <integer>250</integer>
   </dict>
   <dict>
@@ -171,6 +181,57 @@ THE FONT SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, E
   <string>Sheek Bakrii Saphaloo</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
+  <key>openTypeNameRecords</key>
+  <array>
+  <dict>
+    <key>nameID</key>
+    <integer>256</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Digit Alternatives</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>257</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Sheikh Mahammad Rashad</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>258</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Ibsa Sheikh Mahammadsiraac</string>
+  </dict>
+  <dict>
+    <key>nameID</key>
+    <integer>259</integer>
+    <key>platformID</key>
+    <integer>3</integer>
+    <key>encodingID</key>
+    <integer>1</integer>
+    <key>languageID</key>
+    <integer>1033</integer>
+    <key>string</key>
+    <string>Sheikh Nuradin Ahmad</string>
+  </dict>
+  </array>
   <key>openTypeNameVersion</key>
   <string>Version 1.100</string>
   <key>openTypeOS2Panose</key>
