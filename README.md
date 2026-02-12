@@ -8,7 +8,7 @@ The font was originally created by Jason Glavy in 2006 for the [Athinkra](https:
 under the name "JG Oromo".  The Athinkra project placed the font under the [OFL](https://scripts.sil.org/OFL) license in 2023,
 this project updates the OFL release to relocate the glyphs into the Private Use Area (first release). Later, the
 glyphs were reencoded under the Unicode 19 provisional encoding for Shaaldaa script:  U+1C800 - U+1CB2B.
-See the [FONTLOG.txt](FONTLOG.txt) file in this directory for a list of additional changes.
+See the [FONTLOG.txt](FONTLOG-Athinkra-Sheek-Bakrii-Saphaloo.txt) file in this directory for a list of additional changes.
 
 Note also that the glyphs of the initial release (v1.0) of the font reflects the handwriting style of Sheek Mahammad Rashad
 (a student of Sheek Bakrii Saphaloo).
