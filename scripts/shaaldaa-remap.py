@@ -36,7 +36,11 @@ def main():
 	outdoc = sys.argv[1].replace( ".docx", "-Out.docx" )
 	doc = docx.Document( indoc )
 	for block in iter_block_items(doc):
-		block.text = block.text.translate(mytable)
+		inline = block.runs
+		for j in range(len(inline) ):
+			oldText = inline[j].text
+			newText = oldText.translate(mytable)
+			inline[j].text = newText
 
 	doc.save( outdoc )
 
