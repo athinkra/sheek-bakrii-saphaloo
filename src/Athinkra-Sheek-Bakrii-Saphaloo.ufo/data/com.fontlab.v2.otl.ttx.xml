@@ -179,16 +179,16 @@ Sheikh Nuradin Ahmad
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
       <SingleSubst index="0" Format="2">
-        <Substitution in="uni1CB20" out="uni1CB20.smr"/>
-        <Substitution in="uni1CB21" out="uni1CB21.smr"/>
-        <Substitution in="uni1CB22" out="uni1CB22.smr"/>
-        <Substitution in="uni1CB23" out="uni1CB23.smr"/>
-        <Substitution in="uni1CB24" out="uni1CB24.smr"/>
-        <Substitution in="uni1CB25" out="uni1CB25.smr"/>
-        <Substitution in="uni1CB26" out="uni1CB26.smr"/>
-        <Substitution in="uni1CB27" out="uni1CB27.smr"/>
-        <Substitution in="uni1CB28" out="uni1CB28.smr"/>
-        <Substitution in="uni1CB29" out="uni1CB29.smr"/>
+        <Substitution in="u1CB20" out="u1CB20.smr"/>
+        <Substitution in="u1CB21" out="u1CB21.smr"/>
+        <Substitution in="u1CB22" out="u1CB22.smr"/>
+        <Substitution in="u1CB23" out="u1CB23.smr"/>
+        <Substitution in="u1CB24" out="u1CB24.smr"/>
+        <Substitution in="u1CB25" out="u1CB25.smr"/>
+        <Substitution in="u1CB26" out="u1CB26.smr"/>
+        <Substitution in="u1CB27" out="u1CB27.smr"/>
+        <Substitution in="u1CB28" out="u1CB28.smr"/>
+        <Substitution in="u1CB29" out="u1CB29.smr"/>
       </SingleSubst>
     </Lookup>
     <Lookup index="1">
@@ -196,16 +196,16 @@ Sheikh Nuradin Ahmad
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
       <SingleSubst index="0" Format="2">
-        <Substitution in="uni1CB20" out="uni1CB20.ism"/>
-        <Substitution in="uni1CB21" out="uni1CB21.ism"/>
-        <Substitution in="uni1CB22" out="uni1CB22.ism"/>
-        <Substitution in="uni1CB23" out="uni1CB23.ism"/>
-        <Substitution in="uni1CB24" out="uni1CB24.ism"/>
-        <Substitution in="uni1CB25" out="uni1CB25.ism"/>
-        <Substitution in="uni1CB26" out="uni1CB26.ism"/>
-        <Substitution in="uni1CB27" out="uni1CB27.ism"/>
-        <Substitution in="uni1CB28" out="uni1CB28.ism"/>
-        <Substitution in="uni1CB29" out="uni1CB29.ism"/>
+        <Substitution in="u1CB20" out="u1CB20.ism"/>
+        <Substitution in="u1CB21" out="u1CB21.ism"/>
+        <Substitution in="u1CB22" out="u1CB22.ism"/>
+        <Substitution in="u1CB23" out="u1CB23.ism"/>
+        <Substitution in="u1CB24" out="u1CB24.ism"/>
+        <Substitution in="u1CB25" out="u1CB25.ism"/>
+        <Substitution in="u1CB26" out="u1CB26.ism"/>
+        <Substitution in="u1CB27" out="u1CB27.ism"/>
+        <Substitution in="u1CB28" out="u1CB28.ism"/>
+        <Substitution in="u1CB29" out="u1CB29.ism"/>
       </SingleSubst>
     </Lookup>
     <Lookup index="2">
@@ -213,16 +213,16 @@ Sheikh Nuradin Ahmad
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
       <SingleSubst index="0" Format="2">
-        <Substitution in="uni1CB20" out="uni1CB20.sna"/>
-        <Substitution in="uni1CB21" out="uni1CB21.sna"/>
-        <Substitution in="uni1CB22" out="uni1CB22.sna"/>
-        <Substitution in="uni1CB23" out="uni1CB23.sna"/>
-        <Substitution in="uni1CB24" out="uni1CB24.sna"/>
-        <Substitution in="uni1CB25" out="uni1CB25.sna"/>
-        <Substitution in="uni1CB26" out="uni1CB26.sna"/>
-        <Substitution in="uni1CB27" out="uni1CB27.sna"/>
-        <Substitution in="uni1CB28" out="uni1CB28.sna"/>
-        <Substitution in="uni1CB29" out="uni1CB29.sna"/>
+        <Substitution in="u1CB20" out="u1CB20.sna"/>
+        <Substitution in="u1CB21" out="u1CB21.sna"/>
+        <Substitution in="u1CB22" out="u1CB22.sna"/>
+        <Substitution in="u1CB23" out="u1CB23.sna"/>
+        <Substitution in="u1CB24" out="u1CB24.sna"/>
+        <Substitution in="u1CB25" out="u1CB25.sna"/>
+        <Substitution in="u1CB26" out="u1CB26.sna"/>
+        <Substitution in="u1CB27" out="u1CB27.sna"/>
+        <Substitution in="u1CB28" out="u1CB28.sna"/>
+        <Substitution in="u1CB29" out="u1CB29.sna"/>
       </SingleSubst>
     </Lookup>
     <Lookup index="3">
@@ -230,55 +230,55 @@ Sheikh Nuradin Ahmad
       <LookupFlag value="0"/>
       <!-- SubTableCount=1 -->
       <AlternateSubst index="0" Format="1">
-        <AlternateSet glyph="uni1CB20">
-          <Alternate glyph="uni1CB20.smr"/>
-          <Alternate glyph="uni1CB20.ism"/>
-          <Alternate glyph="uni1CB20.sna"/>
+        <AlternateSet glyph="u1CB20">
+          <Alternate glyph="u1CB20.smr"/>
+          <Alternate glyph="u1CB20.ism"/>
+          <Alternate glyph="u1CB20.sna"/>
         </AlternateSet>
-        <AlternateSet glyph="uni1CB21">
-          <Alternate glyph="uni1CB21.smr"/>
-          <Alternate glyph="uni1CB21.ism"/>
-          <Alternate glyph="uni1CB21.sna"/>
+        <AlternateSet glyph="u1CB21">
+          <Alternate glyph="u1CB21.smr"/>
+          <Alternate glyph="u1CB21.ism"/>
+          <Alternate glyph="u1CB21.sna"/>
         </AlternateSet>
-        <AlternateSet glyph="uni1CB22">
-          <Alternate glyph="uni1CB22.smr"/>
-          <Alternate glyph="uni1CB22.ism"/>
-          <Alternate glyph="uni1CB22.sna"/>
+        <AlternateSet glyph="u1CB22">
+          <Alternate glyph="u1CB22.smr"/>
+          <Alternate glyph="u1CB22.ism"/>
+          <Alternate glyph="u1CB22.sna"/>
         </AlternateSet>
-        <AlternateSet glyph="uni1CB23">
-          <Alternate glyph="uni1CB23.smr"/>
-          <Alternate glyph="uni1CB23.ism"/>
-          <Alternate glyph="uni1CB23.sna"/>
+        <AlternateSet glyph="u1CB23">
+          <Alternate glyph="u1CB23.smr"/>
+          <Alternate glyph="u1CB23.ism"/>
+          <Alternate glyph="u1CB23.sna"/>
         </AlternateSet>
-        <AlternateSet glyph="uni1CB24">
-          <Alternate glyph="uni1CB24.smr"/>
-          <Alternate glyph="uni1CB24.ism"/>
-          <Alternate glyph="uni1CB24.sna"/>
+        <AlternateSet glyph="u1CB24">
+          <Alternate glyph="u1CB24.smr"/>
+          <Alternate glyph="u1CB24.ism"/>
+          <Alternate glyph="u1CB24.sna"/>
         </AlternateSet>
-        <AlternateSet glyph="uni1CB25">
-          <Alternate glyph="uni1CB25.smr"/>
-          <Alternate glyph="uni1CB25.ism"/>
-          <Alternate glyph="uni1CB25.sna"/>
+        <AlternateSet glyph="u1CB25">
+          <Alternate glyph="u1CB25.smr"/>
+          <Alternate glyph="u1CB25.ism"/>
+          <Alternate glyph="u1CB25.sna"/>
         </AlternateSet>
-        <AlternateSet glyph="uni1CB26">
-          <Alternate glyph="uni1CB26.smr"/>
-          <Alternate glyph="uni1CB26.ism"/>
-          <Alternate glyph="uni1CB26.sna"/>
+        <AlternateSet glyph="u1CB26">
+          <Alternate glyph="u1CB26.smr"/>
+          <Alternate glyph="u1CB26.ism"/>
+          <Alternate glyph="u1CB26.sna"/>
         </AlternateSet>
-        <AlternateSet glyph="uni1CB27">
-          <Alternate glyph="uni1CB27.smr"/>
-          <Alternate glyph="uni1CB27.ism"/>
-          <Alternate glyph="uni1CB27.sna"/>
+        <AlternateSet glyph="u1CB27">
+          <Alternate glyph="u1CB27.smr"/>
+          <Alternate glyph="u1CB27.ism"/>
+          <Alternate glyph="u1CB27.sna"/>
         </AlternateSet>
-        <AlternateSet glyph="uni1CB28">
-          <Alternate glyph="uni1CB28.smr"/>
-          <Alternate glyph="uni1CB28.ism"/>
-          <Alternate glyph="uni1CB28.sna"/>
+        <AlternateSet glyph="u1CB28">
+          <Alternate glyph="u1CB28.smr"/>
+          <Alternate glyph="u1CB28.ism"/>
+          <Alternate glyph="u1CB28.sna"/>
         </AlternateSet>
-        <AlternateSet glyph="uni1CB29">
-          <Alternate glyph="uni1CB29.smr"/>
-          <Alternate glyph="uni1CB29.ism"/>
-          <Alternate glyph="uni1CB29.sna"/>
+        <AlternateSet glyph="u1CB29">
+          <Alternate glyph="u1CB29.smr"/>
+          <Alternate glyph="u1CB29.ism"/>
+          <Alternate glyph="u1CB29.sna"/>
         </AlternateSet>
       </AlternateSubst>
     </Lookup>

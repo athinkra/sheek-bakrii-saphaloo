@@ -4,13 +4,13 @@ languagesystem latn dflt;
 languagesystem hebr dflt;
 #< languagesystem
 # Sheikh Bakrii Saphaloo (SBS) / Sheikh Mahammadsiraac Sheikh Bakrii (SMSB)
-@sbs_digits = [uni1CB20 uni1CB21 uni1CB22 uni1CB23 uni1CB24 uni1CB25 uni1CB26 uni1CB27 uni1CB28 uni1CB29] ;
+@sbs_digits = [u1CB20 u1CB21 u1CB22 u1CB23 u1CB24 u1CB25 u1CB26 u1CB27 u1CB28 u1CB29] ;
 # Sheikh Mahammad Rashad (SMR)
-@smr_digits = [uni1CB20.smr uni1CB21.smr uni1CB22.smr uni1CB23.smr uni1CB24.smr uni1CB25.smr uni1CB26.smr uni1CB27.smr uni1CB28.smr uni1CB29.smr] ;
+@smr_digits = [u1CB20.smr u1CB21.smr u1CB22.smr u1CB23.smr u1CB24.smr u1CB25.smr u1CB26.smr u1CB27.smr u1CB28.smr u1CB29.smr] ;
 # Ibsa Sheikh Mahammadsiraac (ISM)
-@ism_digits = [uni1CB20.ism uni1CB21.ism uni1CB22.ism uni1CB23.ism uni1CB24.ism uni1CB25.ism uni1CB26.ism uni1CB27.ism uni1CB28.ism uni1CB29.ism] ;
+@ism_digits = [u1CB20.ism u1CB21.ism u1CB22.ism u1CB23.ism u1CB24.ism u1CB25.ism u1CB26.ism u1CB27.ism u1CB28.ism u1CB29.ism] ;
 # Sheikh Nuradin Ahmad (SNA)
-@sna_digits = [uni1CB20.sna uni1CB21.sna uni1CB22.sna uni1CB23.sna uni1CB24.sna uni1CB25.sna uni1CB26.sna uni1CB27.sna uni1CB28.sna uni1CB29.sna] ;
+@sna_digits = [u1CB20.sna u1CB21.sna u1CB22.sna u1CB23.sna u1CB24.sna u1CB25.sna u1CB26.sna u1CB27.sna u1CB28.sna u1CB29.sna] ;
 feature ss01 {
   # Sheikh Mahammad Rashad (SMR)
   sub @sbs_digits by @smr_digits ;
@@ -39,15 +39,15 @@ feature cv01 {
           };
     };
 
-    sub uni1CB20 from [uni1CB20.smr uni1CB20.ism uni1CB20.sna];
-    sub uni1CB21 from [uni1CB21.smr uni1CB21.ism uni1CB21.sna];
-    sub uni1CB22 from [uni1CB22.smr uni1CB22.ism uni1CB22.sna];
-    sub uni1CB23 from [uni1CB23.smr uni1CB23.ism uni1CB23.sna];
-    sub uni1CB24 from [uni1CB24.smr uni1CB24.ism uni1CB24.sna];
-    sub uni1CB25 from [uni1CB25.smr uni1CB25.ism uni1CB25.sna];
-    sub uni1CB26 from [uni1CB26.smr uni1CB26.ism uni1CB26.sna];
-    sub uni1CB27 from [uni1CB27.smr uni1CB27.ism uni1CB27.sna];
-    sub uni1CB28 from [uni1CB28.smr uni1CB28.ism uni1CB28.sna];
-    sub uni1CB29 from [uni1CB29.smr uni1CB29.ism uni1CB29.sna];
+    sub u1CB20 from [u1CB20.smr u1CB20.ism u1CB20.sna];
+    sub u1CB21 from [u1CB21.smr u1CB21.ism u1CB21.sna];
+    sub u1CB22 from [u1CB22.smr u1CB22.ism u1CB22.sna];
+    sub u1CB23 from [u1CB23.smr u1CB23.ism u1CB23.sna];
+    sub u1CB24 from [u1CB24.smr u1CB24.ism u1CB24.sna];
+    sub u1CB25 from [u1CB25.smr u1CB25.ism u1CB25.sna];
+    sub u1CB26 from [u1CB26.smr u1CB26.ism u1CB26.sna];
+    sub u1CB27 from [u1CB27.smr u1CB27.ism u1CB27.sna];
+    sub u1CB28 from [u1CB28.smr u1CB28.ism u1CB28.sna];
+    sub u1CB29 from [u1CB29.smr u1CB29.ism u1CB29.sna];
 
 } cv01;
